@@ -4,7 +4,7 @@ This repository hosts a Jupyter notebook for loading, preprocessing, and analyzi
 
 ## Contents
 
-* `BIGP3BDataset_EEG_BCI.ipynb` – The main analysis notebook:
+* `BIGP3BDataset_EEG_BCI.ipynb` – The primary notebook/pipeline:
 
   * Reading and filtering raw EDF files
   * Channel renaming and montage setting
